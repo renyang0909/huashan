@@ -1,5 +1,7 @@
 
 hhooooooo  haaaaaaaa
-天下第一!!! edit by linghuchong
+<<<<<<< HEAD
+天下第一!!! edit by linghuchon
+天下第一!!!  deit by yuebuqun
 独孤九剑
 九剑
